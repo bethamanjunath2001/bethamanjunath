@@ -1,2 +1,2 @@
 # bethamanjunath
-Personal
+I am Manjunath, a BS-MS physics graduate from IISER Berhampur. I undertook two research projects until now. The first one is in the area of computational modelling and Bayesian analysis in the area of Heavy ion collisions. The second one, which I am currently working on is on statistical physics and condensed matter area with a focus on computation again. I use this place to reorganise my code I have written during these projects as I have written it back then in a very haphazard manner. I wish to bring it into good shape on this platform and probably develop on the code for further use.
